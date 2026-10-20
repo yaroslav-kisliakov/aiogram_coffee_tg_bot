@@ -2,7 +2,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters import CommandStart
 from aiogram.types import Message
-from bot_config import TOKEN
+from bot_config_example import TOKEN
 from aiogram.types import (
     ReplyKeyboardMarkup,
     KeyboardButton,
